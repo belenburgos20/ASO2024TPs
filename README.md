@@ -16,7 +16,8 @@ Trabajos Prácticos.
 
 
 
-   2 b) 
+   Punto 2 b) 
+   
    ![Captura de pantalla 2024-05-16 225946](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/3c4131fa-b2b6-4f52-afe5-4b11edc9948d)
 
 
