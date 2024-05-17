@@ -12,7 +12,12 @@ Trabajos Prácticos.
            c) Luego de ejecutar varias veces el hilo sumas_restas.py y el mismo hilo pero con modificaciones en las lineas que contenian # el cambio fue relevante en el tiempo de ejecucion. El hilo con los respectivos # da como resultado final: 0 , tardando 0.00... segundos. En cambio el hilo sin los # da como resultado final numeros de varias cifras (6), a veces negativos , tardando 1.6.... segundos.
            Los tiempos finales y los segundos son diferentes porque con los # se ejecutara lo más rápido posible, sin ninguna espera. En cambio, sin los # el ritmo de ejecucion se hace más lenta, afectando al tiempo de ejecucion final. 
            
-   Punto 2 a) ![Captura de pantalla_2024-05-16_22-43-24](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/767677ac-e3a8-4e02-afb0-6c3d7764c4b0)
+   Punto 2 a) (Me falta subir la carpeta) ![Captura de pantalla_2024-05-16_22-43-24](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/767677ac-e3a8-4e02-afb0-6c3d7764c4b0)
+
+
+
+   2 b) ![Captura de pantalla 2024-05-16 225946](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/3c4131fa-b2b6-4f52-afe5-4b11edc9948d)
+
 
 
 
