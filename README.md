@@ -2,12 +2,12 @@
 
 Trabajos Prácticos.
 
-1° ![TP1 - Burgos Belén](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/3850d3d4-9ca5-44ef-bade-6e3ea4c2831f)
+Trabajo 1° ![TP1 - Burgos Belén](https://github.com/belenburgos20/ASO2024TPs/assets/167141409/3850d3d4-9ca5-44ef-bade-6e3ea4c2831f)
 
 
-2° (Carpeta TP2)
+Trabajo 2° (Carpeta TP2)
 
-3° Punto 1)
+Trabajo 3° Punto 1)
 a) Con respecto a los tiempos de ejecución de los codigos sinhilos.py y conhilos.py, se puede notar que son diferentes al ejecutarse varias veces. Son tiempos de ejecución impredecibles.
            
 b) Los tiempos de ejecución comparados con los tiempos de otro compañero son diferentes pero no en gran medida. Solo cambian sus decimales.
