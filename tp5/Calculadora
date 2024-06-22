@@ -24,9 +24,9 @@ echo "Primer numero ingresado: " $num1
 echo "Segundo numero ingresado: " $num2
 echo "Operacion elegida: " $operacion
 
-case $operacion in
+case $operacion in 
 1) 
-  suma=$(echo "$num1 + $num2" | bc )
+  suma=$(echo "$num1 + $num2" | bc ) # utilice | bc para poder manejar numeros con decimales
   echo "El resultado de la suma es: $suma"
   ;;
 2)
@@ -42,7 +42,7 @@ case $operacion in
   then 
       echo "No se puede dividir por cero"
   else
-      division=$(echo "$num1 / $num2" | bc )
+      division=$(echo "scale=2; $num1 / $num2" | bc ) #utilice scale=2; para que me de el resultado, si es necesario, con decimales.
       echo "El resultado de la division es: $division"
   fi
 esac
@@ -50,3 +50,4 @@ esac
 echo -e "\n"
 
 echo "Has realizado la operacion con exito"
+
